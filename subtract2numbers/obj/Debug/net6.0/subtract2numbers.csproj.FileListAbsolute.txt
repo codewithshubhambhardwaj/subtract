@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\bin\Debug\net6.0\subtract2numbers.exe
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\bin\Debug\net6.0\subtract2numbers.deps.json
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\bin\Debug\net6.0\subtract2numbers.runtimeconfig.json
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\bin\Debug\net6.0\subtract2numbers.dll
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\bin\Debug\net6.0\subtract2numbers.pdb
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.AssemblyInfo.cs
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.dll
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\refint\subtract2numbers.dll
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.pdb
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\subtract2numbers.genruntimeconfig.cache
+C:\Users\acer\Desktop\projects\.vs\subtract2numbers\subtract2numbers\obj\Debug\net6.0\ref\subtract2numbers.dll
